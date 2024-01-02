@@ -1,7 +1,7 @@
 <?php require_once __DIR__ . '/config.php';
 
-use Wp\Wpuniversity\Theme;
-use Wp\Wpuniversity\Theme\Partials\Header;
+use Wp\WpThemeBoilerplate\Theme;
+use Wp\WpThemeBoilerplate\Theme\Partials\Header;
 
 new Theme();
 

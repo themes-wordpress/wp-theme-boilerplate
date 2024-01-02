@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'wp/wpuniversity',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'wp/wp-theme-boilerplate',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '70ca954af46dec5a61ef1c5359eb1520e498edc5',
         'type' => 'wordpress-theme',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -273,10 +273,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'wp/wpuniversity' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'wp/wp-theme-boilerplate' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '70ca954af46dec5a61ef1c5359eb1520e498edc5',
             'type' => 'wordpress-theme',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

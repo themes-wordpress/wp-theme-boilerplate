@@ -1,7 +1,7 @@
-<?php namespace Wp\Wpuniversity\Models\Posts;
+<?php namespace Wp\WpThemeBoilerplate\Models\Posts;
 
 use WP_Query;
-use Wp\Wpuniversity\Queries\Program as ProgramQuery;
+use Wp\WpThemeBoilerplate\Queries\Program as ProgramQuery;
 class Program
 {
     public $today;

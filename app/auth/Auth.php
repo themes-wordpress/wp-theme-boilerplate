@@ -1,8 +1,8 @@
-<?php namespace Wp\Wpuniversity\Auth;
+<?php namespace Wp\WpThemeBoilerplate\Auth;
 
 
-use Wp\Wpuniversity\Auth\Register;
-use Wp\Wpuniversity\Auth\Login;
+use Wp\WpThemeBoilerplate\Auth\Register;
+use Wp\WpThemeBoilerplate\Auth\Login;
 
  
 class Auth {

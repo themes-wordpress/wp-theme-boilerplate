@@ -1,9 +1,9 @@
-<?php namespace Wp\Wpuniversity\Apis;
+<?php namespace Wp\WpThemeBoilerplate\Apis;
 
 
 
 use WP_REST_SERVER;
-use Wp\Wpuniversity\Models\Apis\Route as RouteModel;
+use Wp\WpThemeBoilerplate\Models\Apis\Route as RouteModel;
 class Route {
 
 

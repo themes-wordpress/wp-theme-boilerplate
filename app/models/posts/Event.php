@@ -1,7 +1,7 @@
-<?php namespace Wp\Wpuniversity\Models\Posts;
+<?php namespace Wp\WpThemeBoilerplate\Models\Posts;
 
 use WP_Query;
-use Wp\Wpuniversity\Queries\Event as EventQuery;
+use Wp\WpThemeBoilerplate\Queries\Event as EventQuery;
 class Event
 {
     public $today;

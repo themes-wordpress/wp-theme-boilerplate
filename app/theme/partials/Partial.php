@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Theme\Partials;
+<?php namespace Wp\WpThemeBoilerplate\Theme\Partials;
 
 
  

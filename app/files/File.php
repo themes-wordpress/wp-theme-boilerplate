@@ -1,7 +1,7 @@
-<?php namespace Wp\Wpuniversity\Files;
+<?php namespace Wp\WpThemeBoilerplate\Files;
 
 
-use Wp\Wpuniversity\Files\Image;
+use Wp\WpThemeBoilerplate\Files\Image;
 
  
 class File {

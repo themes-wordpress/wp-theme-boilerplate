@@ -1,6 +1,6 @@
-<?php namespace Wp\Wpuniversity\Pages;
+<?php namespace Wp\WpThemeBoilerplate\Pages;
 
-use Wp\Wpuniversity\Views\View;
+use Wp\WpThemeBoilerplate\Views\View;
 use \WP_Query;
 class FrontPage
 {

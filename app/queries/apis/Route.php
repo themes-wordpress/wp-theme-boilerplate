@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Queries\Apis;
+<?php namespace Wp\WpThemeBoilerplate\Queries\Apis;
 
 
 class Route {

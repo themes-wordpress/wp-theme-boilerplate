@@ -18,7 +18,7 @@ class ComposerStaticInit756ce346b7efab3e3cad919b130745f4
     public static $prefixLengthsPsr4 = array (
         'W' => 
         array (
-            'Wp\\Wpuniversity\\' => 16,
+            'Wp\\WpThemeBoilerplate\\' => 22,
             'Webmozart\\Assert\\' => 17,
         ),
         'T' => 
@@ -73,7 +73,7 @@ class ComposerStaticInit756ce346b7efab3e3cad919b130745f4
     );
 
     public static $prefixDirsPsr4 = array (
-        'Wp\\Wpuniversity\\' => 
+        'Wp\\WpThemeBoilerplate\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
         ),

@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Posts\Events;
+<?php namespace Wp\WpThemeBoilerplate\Posts\Events;
 
 use WP_Query;
 class Archive {

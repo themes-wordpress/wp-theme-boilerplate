@@ -1,10 +1,10 @@
-<?php namespace Wp\Wpuniversity\Apis;
+<?php namespace Wp\WpThemeBoilerplate\Apis;
 
 
 
-use Wp\Wpuniversity\Apis\Filter;
-use Wp\Wpuniversity\Apis\RESTFul;
-use Wp\Wpuniversity\Apis\Route;
+use Wp\WpThemeBoilerplate\Apis\Filter;
+use Wp\WpThemeBoilerplate\Apis\RESTFul;
+use Wp\WpThemeBoilerplate\Apis\Route;
 
  
 class Api {

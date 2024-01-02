@@ -1,4 +1,5 @@
-<?php namespace Wp\Wpuniversity\Apis;
+<?php namespace Wp\WpThemeBoilerplate\Apis;
+
 
 
 class Filter {

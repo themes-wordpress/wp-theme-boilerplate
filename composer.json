@@ -1,11 +1,11 @@
 {
-    "name": "wp/wpuniversity",
-    "description": "WP University WordPress Theme",
+    "name": "wp/wp-theme-boilerplate",
+    "description": "Theme: WordPress Theme Boilerplate",
     "type": "wordpress-theme",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wp\\Wpuniversity\\": "app/"
+            "Wp\\WpThemeBoilerplate\\": "app/"
         }
     },
     "authors": [
@@ -24,8 +24,8 @@
     },
     "config": {
         "allow-plugins": {
-            "php-http/discovery": true,
-            "composer/installers": true
+            "composer/installers": true,
+            "php-http/discovery": true
         }
     }
 }

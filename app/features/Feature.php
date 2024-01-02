@@ -1,8 +1,8 @@
-<?php namespace Wp\Wpuniversity\Features;
+<?php namespace Wp\WpThemeBoilerplate\Features;
 
 
-use Wp\Wpuniversity\Features\Support;
-use Wp\Wpuniversity\Features\Image;
+use Wp\WpThemeBoilerplate\Features\Support;
+use Wp\WpThemeBoilerplate\Features\Image;
 
  
 class Feature {

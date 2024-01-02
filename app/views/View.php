@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Views; 
+<?php namespace Wp\WpThemeBoilerplate\Views; 
 
 class View {
 

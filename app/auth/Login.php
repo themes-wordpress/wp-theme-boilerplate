@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Auth;
+<?php namespace Wp\WpThemeBoilerplate\Auth;
 
  
 class Login {

@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Views\Extensions;
+<?php namespace Wp\WpThemeBoilerplate\Views\Extensions;
 
 class Extension {
     public function __construct(){

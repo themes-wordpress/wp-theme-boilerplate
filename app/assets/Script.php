@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Assets; 
+<?php namespace Wp\WpThemeBoilerplate\Assets; 
 
 class Script {
     public function __construct(){

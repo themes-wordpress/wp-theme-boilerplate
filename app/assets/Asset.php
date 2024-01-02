@@ -1,8 +1,8 @@
-<?php namespace Wp\Wpuniversity\Assets;
+<?php namespace Wp\WpThemeBoilerplate\Assets;
 
 
-use Wp\Wpuniversity\Assets\Script;
-use Wp\Wpuniversity\Assets\Style;
+use Wp\WpThemeBoilerplate\Assets\Script;
+use Wp\WpThemeBoilerplate\Assets\Style;
 
 class Asset {
     public function __construct(){

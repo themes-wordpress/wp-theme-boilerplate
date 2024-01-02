@@ -1,7 +1,7 @@
-<?php namespace Wp\Wpuniversity\Queries;
+<?php namespace Wp\WpThemeBoilerplate\Queries;
 
 
-use Wp\Wpuniversity\Queries\Adjust;
+use Wp\WpThemeBoilerplate\Queries\Adjust;
 
  
 class Query {

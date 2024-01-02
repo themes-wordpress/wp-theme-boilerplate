@@ -1,7 +1,7 @@
-<?php namespace Wp\Wpuniversity\Models\Apis;
+<?php namespace Wp\WpThemeBoilerplate\Models\Apis;
 
 use WP_Query;
-use Wp\Wpuniversity\Queries\Apis\Route as RouteQuery;
+use Wp\WpThemeBoilerplate\Queries\Apis\Route as RouteQuery;
 class Route
 {
     public RouteQuery $query;

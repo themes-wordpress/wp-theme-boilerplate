@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Queries;
+<?php namespace Wp\WpThemeBoilerplate\Queries;
 
 class Adjust {
     public function __construct(){

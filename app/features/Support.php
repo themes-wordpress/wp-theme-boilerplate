@@ -1,4 +1,4 @@
-<?php namespace Wp\Wpuniversity\Features;
+<?php namespace Wp\WpThemeBoilerplate\Features;
 
 class Support
 {
