@@ -1,0 +1,1 @@
+write a 500-words blog post for my wordpress blog post

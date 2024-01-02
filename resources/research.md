@@ -1,0 +1,23 @@
+1. https://codex.wordpress.org/Function_Reference
+2. https://codex.wordpress.org/Template_Tags
+3. https://codex.wordpress.org/Include_Tags
+4. https://codex.wordpress.org/Conditional_Tags
+5. https://codex.wordpress.org/Stepping_Into_Template_Tags
+6. https://codex.wordpress.org/Anatomy_of_a_Template_Tag
+7. https://codex.wordpress.org/How_to_Pass_Tag_Parameters
+8. https://codex.wordpress.org/Templates
+9. https://codex.wordpress.org/Stepping_Into_Templates
+10. https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/
+11. https://developer.wordpress.org/
+12. https://developer.wordpress.org/rest-api/
+13. https://developer.wordpress.org/reference/
+14. https://codex.wordpress.org/Post_Thumbnails
+15. https://developer.wordpress.org/reference/functions/add_theme_support/
+16. https://codex.wordpress.org/Conditional_Tags
+17. https://codex.wordpress.org/Function_Reference
+18. https://codex.wordpress.org/The_Loop
+19. https://developer.wordpress.org/themes/basics/template-hierarchy/
+20. https://codex.wordpress.org/Category_Templates
+21. https://codex.wordpress.org/Site_Architecture_1.5 => important
+22. https://developer.wordpress.org/themes/basics/conditional-tags/
+23. https://developer.wordpress.org/themes/advanced-topics/child-themes/
